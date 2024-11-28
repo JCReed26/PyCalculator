@@ -37,5 +37,3 @@ while exp != 'x':
     except Exception as e:
         print(f"Invalid expression: {e}")
     exp = input("Enter an expression ('x' to exit): ")
-
-#this cuz this bitch aint working
